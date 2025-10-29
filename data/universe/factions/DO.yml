@@ -18,8 +18,8 @@
 key: DO
 name: Duchy of Oriente
 capital: Oriente
-yearsActive:
-  - start: 3079
+yearsActive: # FWL province dates are based on the start & end dates of the province, not as an independent faction
+  - start: 2241
     end: 3086
 successor: OP
 tags:
@@ -40,3 +40,70 @@ fallBackFactions:
   - OP
   - IS
   - FWL
+factionLeaders:
+  - title: "Duchess"
+    firstName: "Antonia"
+    surname: "Allison"
+    gender: "FEMALE"
+    startYear: 2301
+    endYear: 2353
+  - title: "Duke"
+    firstName: "Byron"
+    surname: "Allison"
+    gender: "MALE"
+    startYear: 2575
+    endYear: 2586
+  - title: "Duke"
+    firstName: "Hektor"
+    surname: "Allison"
+    gender: "MALE"
+    startYear: 2602
+    endYear: 2639
+  - title: "Duke"
+    firstName: "Martin"
+    surname: "Allison"
+    gender: "MALE"
+    startYear: 2700
+    endYear: 2753
+  - title: "Duke"
+    firstName: "Cedro"
+    surname: "Allison"
+    gender: "MALE"
+    startYear: 2762
+    endYear: 2765
+  - title: "Duke"
+    firstName: "Carter"
+    surname: "Allison"
+    gender: "MALE"
+    startYear: 2804
+    endYear: 2824 # No canonical date, just arbitrarily picked
+  - title: "Duke"
+    firstName: "Harlan"
+    surname: "Allison"
+    gender: "MALE"
+    startYear: 2824 # No canonical date, just arbitrarily picked
+    endYear: 2845
+  - title: "Duke"
+    firstName: "Blair"
+    surname: "Halas"
+    gender: "MALE"
+    startYear: 2845
+    endYear: 2866 # No canonical date, just arbitrarily picked
+  - title: "Duke"
+    firstName: "Robin"
+    surname: "Halas"
+    gender: "MALE"
+    startYear: 2866
+    endYear: 2906 # No canonical date, just arbitrarily picked
+  - title: "Duke"
+    firstName: "Christopher"
+    surname: "Halas"
+    gender: "MALE"
+    startYear: 3025
+    endYear: 3080
+  - title: "Duchess"
+    firstName: "Sherryl"
+    surname: "Halas"
+    gender: "FEMALE"
+    startYear: 3080
+    endYear: 3086
