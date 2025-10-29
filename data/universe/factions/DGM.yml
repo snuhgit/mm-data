@@ -18,8 +18,8 @@
 key: DGM
 name: Duchy of Graham-Marik
 capital: Loyalty
-yearsActive:
-  - start: 3079
+yearsActive: # FWL province dates are based on the start & end dates of the province, not as an independent faction
+  - start: 2406
     end: 3082
 successor: MSC
 tags:
