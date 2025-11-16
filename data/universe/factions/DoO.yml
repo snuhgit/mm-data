@@ -18,8 +18,8 @@
 key: DoO
 name: Duchy of Orloff
 capital: Vanra
-yearsActive:
-  - start: 3079
+yearsActive: # FWL province dates are based on the start & end dates of the province, not as an independent faction
+  - start: 2691
     end: 3086
 successor: OP
 tags:
