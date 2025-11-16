@@ -30,6 +30,7 @@ color:
   green: 166
   blue: 79
 nameGenerator: CC
+factionLeaders:
   - title: "Duke"
     firstName: "Emile"
     surname: "Liao"
