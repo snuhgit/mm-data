@@ -17,7 +17,10 @@
 
 key: DoL
 name: Duchy of Liao
-capital: Terra
+capital: Liao
+yearsActive:
+  - start: 2315
+    end: 2367
 successor: CC
 tags:
   - MINOR
@@ -27,3 +30,9 @@ color:
   green: 166
   blue: 79
 nameGenerator: CC
+  - title: "Duke"
+    firstName: "Emile"
+    surname: "Liao"
+    gender: "MALE"
+    startYear: 2315
+    endYear: 2356
